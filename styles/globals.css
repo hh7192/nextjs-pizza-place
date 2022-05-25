@@ -16,11 +16,13 @@ a {
 
 :root {
   --color-primary: #d1411e;
+  --color-primary-darker: #7b2813;
   --color-bghover: rgba(255, 183, 0, 0.261);
   --color-white: #ffffff;
   --color-text: rgb(145, 145, 145);
   --color-price: #666;
   --color-bggray: #222;
+  --color-badge: #008080;
   --transition: all 0.5s ease-out;
   --color-golden-text: #b7903c;
 }
